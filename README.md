@@ -21,12 +21,13 @@ This project implements a comprehensive perception pipeline for autonomous vehic
 
 Key Features
 
-- Automotive-Optimized Detection**: Specialized for vehicles, pedestrians, cyclists, and traffic infrastructure
+- Automotive-Optimized Detection: Specialized for vehicles, pedestrians, cyclists, and traffic infrastructure
 - Real-Time Tracking: Multi-object tracking with trajectory prediction for path planning
 - Distance Estimation: Monocular depth estimation for collision avoidance
 - Production-Ready: Professional MLOps practices with comprehensive testing
 - Performance Monitoring: Detailed metrics and benchmarking for safety validation
 
 Architecture
+
 
 
