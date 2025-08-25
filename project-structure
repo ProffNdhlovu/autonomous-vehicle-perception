@@ -1,0 +1,29 @@
+autonomous-vehicle-perception/
+├── src/
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── yolo_detector.py
+│   │   └── kalman_tracker.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   ├── dataset.py
+│   │   └── transforms.py
+│   ├── training/
+│   │   ├── __init__.py
+│   │   ├── trainer.py
+│   │   └── metrics.py
+│   ├── inference/
+│   │   ├── __init__.py
+│   │   └── pipeline.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── config.py
+│       └── visualization.py
+├── tests/
+├── docs/
+├── configs/
+├── scripts/
+├── requirements.txt
+├── setup.py
+├── README.md
+└── .github/workflows/
