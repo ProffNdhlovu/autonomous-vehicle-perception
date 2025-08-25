@@ -8,16 +8,16 @@ A professional-grade real-time perception system for autonomous vehicles, featur
 
 Author: Sinanzwayinkosi  
 Institution: Masters Student in Machine Learning/Computer Vision  
-**Focus:** Autonomous Vehicle Perception & Safety-Critical AI Systems
+Focus: Autonomous Vehicle Perception & Safety-Critical AI Systems
 
  Project Overview
 
 This project implements a comprehensive perception pipeline for autonomous vehicles, combining:
 
-- **Real-time Object Detection** using YOLOv8 optimized for automotive scenarios
-- **Multi-Object Tracking** with Kalman filters for trajectory prediction
-- **Distance Estimation** using monocular depth estimation techniques
-- **Safety-Critical Performance** with automotive-specific metrics and validation
+- Real-time Object Detection using YOLOv8 optimized for automotive scenarios
+- Multi-Object Tracking with Kalman filters for trajectory prediction
+- Distance Estimation using monocular depth estimation techniques
+- Safety-Critical Performance with automotive-specific metrics and validation
 
 Key Features
 
@@ -28,3 +28,4 @@ Key Features
 - Performance Monitoring: Detailed metrics and benchmarking for safety validation
 
 Architecture
+
