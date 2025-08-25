@@ -114,7 +114,7 @@ Detailed technical documentation available in `/docs/`:
 
  Career Relevance
 
-This project demonstrates key skills for **ML Engineer** and **Autonomous Vehicle** positions:
+This project demonstrates key skills for **ML Engineer** and **Autonomous Vehicle positions:
 
 Technical Skills
 - Computer Vision: Object detection, tracking, depth estimation
@@ -145,3 +145,4 @@ Sinanzwayinkosi
 ---
 
 This project showcases advanced ML engineering skills applied to safety-critical autonomous vehicle systems, demonstrating both technical depth and practical industry relevance.
+
