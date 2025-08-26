@@ -10,7 +10,7 @@ A professional-grade real-time perception system for autonomous vehicles, featur
 **Institution:** Masters Student in Machine Learning/Computer Vision  
 **Focus:** Autonomous Vehicle Perception & Safety-Critical AI Systems
 
-## 🚗 Project Overview
+## Project Overview
 
 This project implements a comprehensive perception pipeline for autonomous vehicles, combining:
 
@@ -21,10 +21,10 @@ This project implements a comprehensive perception pipeline for autonomous vehic
 
 ### Key Features
 
-- 🎯 **Automotive-Optimized Detection**: Specialized for vehicles, pedestrians, cyclists, and traffic infrastructure
-- 🔄 **Real-Time Tracking**: Multi-object tracking with trajectory prediction for path planning
-- 📏 **Distance Estimation**: Monocular depth estimation for collision avoidance
-- 🏗️ **Production-Ready**: Professional MLOps practices with comprehensive testing
-- 📊 **Performance Monitoring**: Detailed metrics and benchmarking for safety validation
+- **Automotive-Optimized Detection**: Specialized for vehicles, pedestrians, cyclists, and traffic infrastructure
+- **Real-Time Tracking**: Multi-object tracking with trajectory prediction for path planning
+- **Distance Estimation**: Monocular depth estimation for collision avoidance
+- **Production-Ready**: Professional MLOps practices with comprehensive testing
+- **Performance Monitoring**: Detailed metrics and benchmarking for safety validation
 
-## 🏗️ Architecture
+## Architecture
