@@ -4,9 +4,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A professional-grade real-time perception system for autonomous vehicles, featuring state-of-the-art object detection and multi-object tracking optimized for automotive applications.
+Real-time perception system for autonomous vehicles, featuring state-of-the-art object detection and multi-object tracking optimized for automotive applications.
 
-**Author:** Sinan Zwayinkosi  
+**Author:** Sinanzwayinkosi Ndhlovu  
 **Institution:** Masters Student in Machine Learning/Computer Vision  
 **Focus:** Autonomous Vehicle Perception & Safety-Critical AI Systems
 

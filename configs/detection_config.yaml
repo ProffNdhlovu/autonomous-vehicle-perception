@@ -1,0 +1,51 @@
+# Autonomous Vehicle Detection Configuration
+
+model:
+  architecture: "yolov8n.pt"
+  input_size: 640
+  confidence_threshold: 0.5
+  iou_threshold: 0.45
+  device: "auto"
+
+tracking:
+  max_disappeared: 30
+  min_hits: 3
+  iou_threshold: 0.3
+  max_distance: 100.0
+
+data:
+  classes:
+    - "person"
+    - "bicycle" 
+    - "car"
+    - "motorcycle"
+    - "bus"
+    - "truck"
+    - "traffic_light"
+    - "stop_sign"
+  
+  augmentation:
+    horizontal_flip: 0.5
+    brightness_contrast: 0.3
+    hue_saturation: 0.3
+    gaussian_noise: 0.2
+
+training:
+  batch_size: 16
+  learning_rate: 0.001
+  weight_decay: 0.0005
+  epochs: 100
+  num_workers: 4
+  mosaic: 1.0
+  mixup: 0.1
+  copy_paste: 0.1
+
+logging:
+  level: "INFO"
+  wandb_project: "autonomous-vehicle-perception"
+  save_frequency: 10
+
+performance:
+  target_fps: 30
+  max_latency_ms: 50
+  memory_limit_gb: 8
