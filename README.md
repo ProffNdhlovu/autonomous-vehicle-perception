@@ -7,7 +7,7 @@
 Real-time perception system for autonomous vehicles, featuring state-of-the-art object detection and multi-object tracking optimized for automotive applications.
 
 **Author:** Sinanzwayinkosi Ndhlovu  
-**Institution:** Masters Student in Machine Learning/Computer Vision  
+**Institution:** PhD Student in Machine Learning/Computer Vision  
 **Focus:** Autonomous Vehicle Perception & Safety-Critical AI Systems
 
 ## Project Overview
