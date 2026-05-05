@@ -8,7 +8,7 @@ Real-time perception system for autonomous vehicles, featuring state-of-the-art 
 
 **Author:** Sinanzwayinkosi Ndhlovu  
 **Institution:** Student in Aerospace Engineering in RPI
-**Focus:** Autonomous Vehicle Perception & Safety-Critical AI Systems
+**Focus:** Autonomous Vehicle 
 
 ## Project Overview
 
